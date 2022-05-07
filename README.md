@@ -13,7 +13,7 @@ This code will allow for a password of a desired length to be generated. The use
 
 ## Installation
 
-The website should work just by visiting the URL: --LINK NEEDED-- some acronyms are used to save time those acronmys are listed below:
+The website should work just by visiting the URL: https://michaelfisher-01.github.io/PasswordGenerator/ some acronyms are used to save time those acronmys are listed below:
 
 
 ## Usage
